@@ -1,5 +1,11 @@
 # 📊 Customer Churn Analysis Dashboard
 
+## Dataset
+Dataset used for this analysis: Customer Churn Dataset
+
+## Project Author
+Padakanti Vishnu Vardhan
+
 ## 📌 Overview
 This project presents an end-to-end **Customer Churn Analysis Dashboard** developed using **Power BI**. The dashboard analyzes customer behavior, identifies key churn drivers, and provides actionable business insights through interactive visualizations and AI-powered analytics. The project demonstrates the complete data analytics workflow, from data preparation to dashboard deployment.
 
